@@ -23,7 +23,7 @@
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             <h1>Jenkins With Laravel</h1>
-            <p>Esse é um projeto simples para testar CI/CD com Jenkins, e essa é uma alteração, alterei denovo.</p>
+            <p>Esse é um projeto simples para testar CI/CD com Jenkins, e essa é uma alteração, alterei denovo, mais uma vez.</p>
         </div>
     </body>
 </html>
